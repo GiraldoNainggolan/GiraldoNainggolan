@@ -94,6 +94,8 @@
 <a href = 'https://www.youtube.com/@giraldonainggolan'> <img width = '32px' align= 'center' src="https://github.com/GiraldoNainggolan/Generator-Works-For-Github-Text/blob/main/icons/youtube.svg"/></a>
 <a href = 'https://www.kaggle.com/giraldosn'> <img width = '32px' align= 'center' src="https://github.com/GiraldoNainggolan/Generator-Works-For-Github-Text/blob/main/icons/kaggle.svg"/></a>
 
+<br>
+
 [![An image of @giraldonainggolan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/giraldonainggolan)](https://holopin.io/@giraldonainggolan)
 <!--
 **GiraldoNainggolan/GiraldoNainggolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
